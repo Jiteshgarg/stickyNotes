@@ -1,1 +1,1 @@
-# stickyNotes
+# stickynotes_project
